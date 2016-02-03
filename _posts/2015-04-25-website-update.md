@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Website update"
+date:   2015-04-25 12:15:00 -0400
+categories: update
+---
+
+I’ve switched this site from the [Skeleton](http://getskeleton.com/) to [Jekyll](http://jekyllrb.com). No complaints with Skeleton, but I liked the promise of Jekyll: blog-aware and Markdown support. I enjoy hand coding, but I should probably devote that kind of energy into TEI. It took me two sittings to figure out exactly what I’m doing with Jekyll, but it makes more sense now. [This tutorial](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211) helped, as did taking a minute to read through the .scss files instead of just blazing through with my CSS hammer. I’ve been taking notes in Markdown for the last few years, so being able to write in Markdown and a touch of YAML is nice.
+
+There’s still a lot to update. My CV does not reflect all the work I’ve done since starting at W&amp;L. It won’t be long until I’ll have to start compiling my non-tenure-track-tenure-file. I need to gather material and write up the content for the projects page. But all that will have to wait for another chilly April afternoon.
+
