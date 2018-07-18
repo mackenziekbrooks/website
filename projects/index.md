@@ -1,12 +1,24 @@
 ---
 layout: page
-title:  Projects
+title:  projects
 ---
 
-# Digital Humanities @ WLU
-[DH @ WLU](http://digitalhumanities.wlu.edu)
 
-# Biblioclast Project
-[Vimeo](https://vimeo.com/61151183)
+## digital humanities 
+* Huon
+* AGP
+* MSR
 
-[Tumblr](http://biblioclast505-blog.tumblr.com/)
+
+## personal
+
+<img class="project-image" src="../assets/deadphonebooks.jpg" />
+### Biblioclast
+
+A questioning of the book as object. 
+
+
+* [Biblioclast Tumblr](http://biblioclast505-blog.tumblr.com/)
+* [Vimeo](https://vimeo.com/61151183)
+
+### Self-Preservation Series
