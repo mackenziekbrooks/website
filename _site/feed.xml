@@ -6,9 +6,39 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Jul 2018 11:10:40 -0400</pubDate>
-    <lastBuildDate>Thu, 19 Jul 2018 11:10:40 -0400</lastBuildDate>
+    <pubDate>Thu, 19 Jul 2018 11:52:01 -0400</pubDate>
+    <lastBuildDate>Thu, 19 Jul 2018 11:52:01 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Teaching TEI to Undergraduates article published!</title>
+        <description>&lt;p&gt;Just wanted to drop in and mention the publication of my first real peer-reviewed article: “Teaching TEI to undergraduates: a case study in digital humanities curriculum” in the special issue of &lt;em&gt;College and Undergraduate Libraries&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tandfonline.com/eprint/DdAqRHI8gySCKnvtvmHy/full&quot;&gt;publisher&lt;/a&gt; // &lt;a href=&quot;https://repository.wlu.edu/handle/11021/33912&quot;&gt;open access&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;abstract&quot;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;This case study describes two iterations of a Digital Humanities (DH) “Studio” course on scholarly text encoding as a model for a DH curriculum at a small liberal arts college. Designed to accompany a three-credit humanities course, the one-credit DH Studios are taught by library faculty. The paired courses share a final project — a digital edition of a short work of literature encoded in the Text Encoding Initiative. The DH Studio creates a methodology-focused environment for students to practice information and digital literacies.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection:&lt;/h2&gt;
+
+&lt;p&gt;Due to teaching commitments and that vicious procrastination/perfectionism cycle, I left myself far too little time to write a twenty page article. There were definitely some bleary weekends and evenings in the month of January. I am a slow writer, even on a topic that is essentially just a report. Revisions were minor, so I can apparently produce decent work while bleary, but I hope someday to be able to work well without the pressure of deadlines.&lt;/p&gt;
+
+&lt;p&gt;The one-credit “humanities lab” concept described in this case study is something that we bring up a lot in my DH/liberal arts circles. I wanted to document how the model worked for us in case it’s useful to others. I do still like the concept, but as the administrator says in &lt;em&gt;The History Boys&lt;/em&gt;, “Strange how even the most tragic turn of events generally resolve themselves into questions about the timetable.” Scheduling is hard!&lt;/p&gt;
+
+&lt;p&gt;These courses were my first real experiences teaching full courses. I feel like I have learned a lot since then! The inherent iteration is my favorite part of teaching. You have so many chances to make things better, from year to year or week to week. While I find perfectionism to be a problem when writing, I knew that it would be the death of me when teaching. While I tried to make good decisions, I also didn’t beat myself up if/when things didn’t go well. If you’re paying attention, you will learn something every time you’re in the classroom.&lt;/p&gt;
+
+&lt;p&gt;In 2016, I taught three sections (4 students each) of DH 190. Each section was totally different and I had to learn to frame material differently based on the vibe of each group. It was a little like A/B testing in the classroom. Sections of four meant I could give each student individual attention, but I still felt pulled in too many directions, especially when dealing with OS/browser issues. Students worked in pairs, but I encouraged them to help each other when one had solved a problem first.&lt;/p&gt;
+
+&lt;p&gt;I can’t say what the future of this course will be. While undergraduates can “get” TEI, I’m not sure they need to. I could see reworking this course to focus on minimal editions (see Torrent’s &lt;a href=&quot;http://susannalles.com/materials/syllabi/MinimalEditions.html&quot;&gt;syllabus&lt;/a&gt;). Now that I feel capable of teaching git (thanks Brandon Walsh), I think the git/github/Jekyll/Ed stack might be more fun. The pairing of this course with an advanced French lit course meant that we were using TEI as a vehicle to close reading the course texts. Without the pairing, we could work to transcribe documents from Special Collections with students selecting the types of texts that interested them. We’ll see!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Jul 2017 08:02:00 -0400</pubDate>
+        <link>http://localhost:4000/update/2017/07/20/teaching-tei-to-undergraduates.html</link>
+        <guid isPermaLink="true">http://localhost:4000/update/2017/07/20/teaching-tei-to-undergraduates.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>One Shot Update</title>
