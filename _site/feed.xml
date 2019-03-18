@@ -6,9 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Nov 2018 16:07:02 -0500</pubDate>
-    <lastBuildDate>Fri, 16 Nov 2018 16:07:02 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Mon, 18 Mar 2019 18:46:14 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2019 18:46:14 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Teaching TEI to Undergraduates article published!</title>
