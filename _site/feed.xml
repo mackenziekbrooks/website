@@ -6,9 +6,24 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Mar 2019 19:14:00 -0400</pubDate>
-    <lastBuildDate>Mon, 18 Mar 2019 19:14:00 -0400</lastBuildDate>
+    <pubDate>Mon, 18 Mar 2019 19:34:28 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2019 19:34:28 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Born Digital Archives in the Undergraduate Classroom</title>
+        <description>&lt;p&gt;Alternate title: why blog about teaching when you can just publish a new article for every class?&lt;/p&gt;
+
+&lt;p&gt;I’m delighted to share this recent article in one of my favorite journals: Journal of Interactive Technology and Pedagogy. &lt;a href=&quot;https://jitp.commons.gc.cuny.edu/born-digital-archives-in-the-undergraduate-classroom/&quot;&gt;Born Digital Archives in the Undergraduate Classroom&lt;/a&gt; is a write-up of my first-year seminar taught in 2018. Through an educational partnership with &lt;a href=&quot;http://archive-it.org/&quot;&gt;Archive-It&lt;/a&gt;, students worked to create their own web archive on a topic of their choosing. It was a fun class! The article covers my methods for introducing a first-year audience to archival theory and digital preservation. It’s just a “View from the Field,” so if you’re looking for more detail, I suggest checking out the &lt;a href=&quot;https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/&quot;&gt;syllabus&lt;/a&gt;. I have no immediate plans to teach it again, but I hope it can inspire others to make use of born-digital archives in their own teaching.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Mar 2019 15:19:19 -0400</pubDate>
+        <link>http://localhost:4000/update/2019/03/18/born-digital-archives-article-published.html</link>
+        <guid isPermaLink="true">http://localhost:4000/update/2019/03/18/born-digital-archives-article-published.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Teaching TEI to Undergraduates article published!</title>

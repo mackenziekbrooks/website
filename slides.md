@@ -18,4 +18,6 @@ layout: default
 * [DH @ W&L](https://mackenziekbrooks.info/slides/regional-dh-20180309.html#/) Scholars' Lab 2018
 * [Assessing Failure](https://mackenziekbrooks.info/slides/DLF17-specsgrading.html) DLF 2017
 * [Beyond Primary Sources](https://mackenziekbrooks.info/slides/DACSummit-20171013.html) DAC Summit 2017
+* [Building Visual Literacy](https://docs.google.com/presentation/d/1Yy4p3uTOgol23v3X1GSvw5jd5ex_CGEXycqdIt8b2pg/edit?usp=sharing) ACRL 2017
+* [Text Encoding with Marie de France](https://docs.google.com/presentation/d/1qLWrbRdQZpz35U-Ks0XxSOVqotm9hEo4j0wpLI0TmJA/edit?usp=sharing) Bucknell 2015
 * [Speeding Up Archival Description with FAST](https://mackenziekbrooks.info/slides/speeding-up-archival-description-with-fast.html) ALA 2015
