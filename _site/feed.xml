@@ -6,9 +6,67 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Mar 2019 19:34:28 -0400</pubDate>
-    <lastBuildDate>Mon, 18 Mar 2019 19:34:28 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Jun 2019 15:52:40 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Jun 2019 15:52:40 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Studies in Bibliography</title>
+        <description>&lt;p&gt;As I said in my last post, I’m headed off to &lt;a href=&quot;https://rarebookschool.org&quot;&gt;Rare Book School&lt;/a&gt; at UVa next week. I haven’t been before, but I have spent a week at some kind of institute for the last three summers (so far there is a lot more Latin at RBS than at DHSI or HILT). The &lt;a href=&quot;https://rarebookschool.org/courses/general/g55/reading-list/&quot;&gt;recommended reading&lt;/a&gt; for my course, Scholarly Editing: Principles and Practice, is a series of six essays by G. Thomas Tanselle. The series starts in 1975 and continues through 2000, creating a pretty dense snapshot of the scholarly editing conversation during that time. Certainly a 300-page lit review is one way to get up to speed on a field, if only Tanselle didn’t spend most of the time tearing apart everyone else’s arguments while simultaneously accusing them of being too polemical.&lt;/p&gt;
+
+&lt;p&gt;In the first essay (1975), Tanselle explains the principles of W. W. Greg’s “The Rationale of Copy-Text,” which are, in my own words:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Editors should use restraints and should not rely on purely “ecletic methods.”&lt;/li&gt;
+  &lt;li&gt;The last edition published in the author’s lifetime is not automatically the best.&lt;/li&gt;
+  &lt;li&gt;Substantive variants matter more than accidental ones. Because, authors are more likely to concern themselves with substantive changes and copyists etc. with “accidentals.”&lt;/li&gt;
+  &lt;li&gt;Be reasonable. Know when to use the rules and when not to.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Tanselle then spends the next twenty-five years criticizing other scholars for misunderstanding Greg. While he finds some questions interesting, he claims that most publications do very little to advance the field. In his view, most  scholars are pushing aside Greg and what they see as his preference for authorial intent because of a new focus on the social context of literary production. Tanselle sees these arguments as misguided and spends a lot of saying so - he thinks that Greg still accommodates most of these points of view and that everyone else just doesn’t get it:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The real myth involved is the belief that intentionalist editing does not accommodate collaborative authorship and textual instability. (SiB vol 49 (1996): 5)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;By 1996, he’s a little less salty and ends by quoting Woolf to illustrate his point - “a novel… exists on the far side of a gulf.” Editors are just trying to reconstruct the whole story from what is ultimately a textual artifact (just like other historical fields). If you get past authorial intent, the question becomes: what’s the point of a critical edition? Tanselle’s answer: “the limitations of artifacts and insatiability of our interest in the past” (60).&lt;/p&gt;
+
+&lt;p&gt;Of course I was interested in mentions of the digital, which mostly come up with McGann and Schillingsburg. Tanselle sees digital editions as improving on an often awkward print apparatus or to enable McGann’s “radial reading.” But what struck me from the whole 300 page slog (and it was a big of a slog) was the resonance of textual studies in DH, or even info lit more broadly. DocNow’s &lt;a href=&quot;https://github.com/DocNow/diffengine&quot;&gt;diffengine&lt;/a&gt; came to mind for instance. If you believe that remediation is a thing and that form informs content, or that authority is constructed and contextual, then you can’t skate past textual studies. We have more tools now for tracking changes to text by whichever contributor, but I can’t imagine there are many who would argue that text is more stable now than it’s ever been.&lt;/p&gt;
+
+&lt;p&gt;In case you’re wondering, Huxley roots for authorial intent while Orwell falls into the post-structuralist camp.&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;&lt;td&gt;
+&lt;a href=&quot;/assets/cats1.jpg&quot;&gt;&lt;img src=&quot;/assets/cats1.jpg&quot; alt=&quot;that look that cats give&quot; style=&quot; border: 1px solid black;&quot; /&gt;&lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href=&quot;/assets/cats2.jpg&quot;&gt;&lt;img src=&quot;/assets/cats2.jpg&quot; alt=&quot;that look that cats give&quot; style=&quot;border: 1px solid black;&quot; /&gt;&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+</description>
+        <pubDate>Fri, 07 Jun 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/update/2019/06/07/studies-in-bibliography.html</link>
+        <guid isPermaLink="true">http://localhost:4000/update/2019/06/07/studies-in-bibliography.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Sabbatical Plans</title>
+        <description>&lt;p&gt;Today is the first day of my sabbatical! As a library faculty member on a 12-month contract, it is customary for us to get three months of leave in the summer on a five year cycle. For me, this sabbatical comes on the heels of my promotion to associate professor (!). It also marks the first time I have ever had any substantial opportunity to pursue my own research agenda. The nature of my work is very service-oriented. I teach, consult, and contribute to others’ learning, teaching, and research at my university and beyond. Even my publications reflect this direction. So when it came time to propose my sabbatical plans, I basically had to initialize a whole research agenda. It came together pretty easily after a little reflection, but I’m still adjusting to the idea that I am the one propelling my work, rather than other people. I know the opportunity for deep engagement will be beneficial for my professional (and personal) life, but right now it still feels like a major indulgence. I’ll go into my actual plans below, but for now, my top goal seems to be “figure out what it means to be a person on sabbatical.”&lt;/p&gt;
+
+&lt;p&gt;I’ve decided to devote my leave time to developing and documenting a model for building digital editions with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, &lt;a href=&quot;https://github.com/TEIC/CETEIcean&quot;&gt;CETEIcean&lt;/a&gt;, and potentially &lt;a href=&quot;http://iiif.io/&quot;&gt;IIIF&lt;/a&gt;. I’ve begun this work on the &lt;a href=&quot;http://www.huondauvergne.org&quot;&gt;Huon d’Auvergne Digital Archive&lt;/a&gt;) and I see a lot of promise in its use by others. I expect I will write more about the landscape, but the short version is: I think there’s still value in the TEI and not so much value in everyone learning XSLT to do something with TEI-encoded documents. I want to create an option for folks who don’t have their own developers but are willing to work through some good documentation. I also want to develop a new course on this topic (and maybe another course on something else). For a good dose of theory, I’ll be taking a scholarly editing course at Rare Book School next week. Finally, I’m hoping to use the proceedings for our local historical society as my demo text.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I just want to make texts available online in their best possible form. I want this to be easy for scholars, but mostly I want more texts to make it to the public. I could say more, especially about my particular context, but for now let me leave you with a view of my summer office:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/office.JPG&quot; alt=&quot;laptop on table in outdoor setting&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Jun 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/update/2019/06/03/sabbatical-plans.html</link>
+        <guid isPermaLink="true">http://localhost:4000/update/2019/06/03/sabbatical-plans.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Born Digital Archives in the Undergraduate Classroom</title>

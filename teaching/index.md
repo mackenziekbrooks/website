@@ -3,6 +3,8 @@ layout: page
 title: teaching
 ---
 
+[Teaching Statement](/teaching/statement.html)
+
 ## DH 102: Data in the Humanities
 This course introduces students to the creation and visualization of data in humanities research. The course is predicated on the fact that the digital turn of the last several decades has drastically changed the nature of knowledge production and distribution. The community and set of practices that is digital humanities (DH) encourages fluency in media beyond the printed word such as text mining, digital curation, data visualization, and spatial analysis. Readings and discussions of theory complement hands-on application of digital methods and computational thinking. While the objects of our study come primarily from the humanities, the methods of analysis are widely applicable to the social and natural sciences. Three unit-long collaborative projects explore the creation, structure, and visualization of humanities data. This course meets in two-hour blocks to accommodate a lab component. 
 
