@@ -14,6 +14,7 @@ layout: default
 
 
 ## Presentations
+* [The Dilemma of Marketable Skills](https://docs.google.com/presentation/d/1VwS3PZ2uBF5bv2IQUfoHsY00-Eo3Yaegr2GMskhYifg/edit?usp=sharing) DLF 2019 
 * [DH @ W&L](https://docs.google.com/presentation/d/1fVEiCt-gEfm-EmQSsUk_aEimCzGz15Cn1Cpeh_FoN7M/edit?usp=sharing) Roanoke College 2019
 * [DH @ W&L](https://mackenziekbrooks.info/slides/regional-dh-20180309.html#/) Scholars' Lab 2018
 * [Assessing Failure](https://mackenziekbrooks.info/slides/DLF17-specsgrading.html) DLF 2017
