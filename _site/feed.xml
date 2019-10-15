@@ -6,46 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Oct 2019 21:17:54 -0400</pubDate>
-    <lastBuildDate>Mon, 14 Oct 2019 21:17:54 -0400</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2019 21:19:04 -0400</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2019 21:19:04 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Rare Book School</title>
-        <description>&lt;p&gt;My report back from Rare Book School is that I loved it! As mentioned, I’ve attended DHSI and HILT the last few years, and while those institutes were fun and worthwhile, ultimately I got more out of RBS. As a Digital Humanities Librarian, sometimes I need more time with the humanities than I do with the digital. I finished my course on scholarly editing feeling like I had a firm foundation in the &lt;em&gt;scholarship&lt;/em&gt; of scholarly editing, something I could have used years ago. Some highlights:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;What struck me most about the process of editing was just how slow it is, or could be. While the pace of the course delivery was also slow…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Pedagogy of editing.&lt;/em&gt; I came away with a number of ideas about how to teach editing…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Professor David Vander Meulen.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;scholary editing&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;pedagogy&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;hinman&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 20 Jun 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/update/2019/06/20/rare-book-school.html</link>
-        <guid isPermaLink="true">http://localhost:4000/update/2019/06/20/rare-book-school.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
     
       <item>
         <title>Studies in Bibliography</title>
@@ -276,6 +239,22 @@
         <pubDate>Sun, 31 May 2015 11:00:00 -0400</pubDate>
         <link>http://localhost:4000/update/2015/05/31/thatcampva.html</link>
         <guid isPermaLink="true">http://localhost:4000/update/2015/05/31/thatcampva.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Website update</title>
+        <description>&lt;p&gt;I’ve switched this site from the &lt;a href=&quot;http://getskeleton.com/&quot;&gt;Skeleton&lt;/a&gt; to &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;. No complaints with Skeleton, but I liked the promise of Jekyll: blog-aware and Markdown support. I enjoy hand coding, but I should probably devote that kind of energy into TEI. It took me two sittings to figure out exactly what I’m doing with Jekyll, but it makes more sense now. &lt;a href=&quot;http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211&quot;&gt;This tutorial&lt;/a&gt; helped, as did taking a minute to read through the .scss files instead of just blazing through with my CSS hammer. I’ve been taking notes in Markdown for the last few years, so being able to write in Markdown and a touch of YAML is nice.&lt;/p&gt;
+
+&lt;p&gt;There’s still a lot to update. My CV does not reflect all the work I’ve done since starting at W&amp;amp;L. It won’t be long until I’ll have to start compiling my non-tenure-track-tenure-file. I need to gather material and write up the content for the projects page. But all that will have to wait for another chilly April afternoon.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 25 Apr 2015 12:15:00 -0400</pubDate>
+        <link>http://localhost:4000/update/2015/04/25/website-update.html</link>
+        <guid isPermaLink="true">http://localhost:4000/update/2015/04/25/website-update.html</guid>
         
         
         <category>update</category>
