@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  CV
+title:  cv
 ---
 
-[CV as PDF]({{site.baseurl}}/assets/BrooksMackenzieCV2018.pdf)
+[CV as PDF]({{site.baseurl}}/assets/BrooksMackenzieCV2023.pdf)

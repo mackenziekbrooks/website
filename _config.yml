@@ -14,7 +14,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.mackenziekbrooks.info" # the base hostname & protocol for your site
 twitter_username: mackymoo
 github_username: mackenziekbrooks
-goodreads_username: mackenziekbrooks
+mastodon_username: mackymoo@hcommons.social
+bluesky_username: mackymoo
+first_name: Mackenzie
+last_name: Brooks
+
 
 # Build settings
 markdown: kramdown

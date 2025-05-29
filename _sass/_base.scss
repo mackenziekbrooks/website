@@ -57,6 +57,9 @@ img.project-image {
     float: left;
 
 }
+#banner-image {
+    width: 100%;
+}
 
 .projectt {
 float: left;
@@ -121,7 +124,7 @@ a {
     }
 
     &:hover {
-        color: $text-color;
+        color: #53A999;
         text-decoration: underline;
     }
 }
@@ -132,11 +135,9 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
+    color: $grey-color-dark;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
     font-style: italic;
 
     > :last-child {
@@ -222,7 +223,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: #fff;
         }
     }
 }

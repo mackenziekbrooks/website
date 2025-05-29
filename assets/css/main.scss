@@ -6,23 +6,23 @@
 
 
 // Our variables
-$base-font-family: Droid Serif, serif;
-$base-font-size:   16px;
+$base-font-family: Teachers;
+$base-font-size:   22px;
 $base-font-weight: 400;	
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.7;
 
-$spacing-unit:     30px;
+$spacing-unit:     32px;
 
-$text-color:       #111;
+$text-color:       #000;
 $background-color: #fdfdfd;
-$brand-color:      #30c6d3;
+$brand-color:      #58568C;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1000px;
 
 $on-palm:          600px;
 $on-laptop:        800px;

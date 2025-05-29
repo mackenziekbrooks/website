@@ -5,6 +5,20 @@ title: teaching
 
 [Teaching Statement](/teaching/statement.html)
 
+## DCI 101: Introduction to Digital Culture & Information 
+
+What does it mean to be a citizen of a digital world? How do you think critically about the ways that technology shapes our society? How do you learn new digital skills when platforms are constantly changing? How do you find and use information effectively without being overwhelmed or mislead?
+
+Through hands-on activities and project-based learning, this course serves as an introduction to the study of digital culture and information. Students will develop the critical capacity and technological fluency necessary to understand, analyze, critique, and create in a world dominated by digital media, software algorithms, and information overload.
+
+[course website](https://mackenziekbrooks.github.io/dci101-w24/)
+
+## DCI 295D: Digital Editions
+
+Can we trust text? What happens on the journey from handwritten manuscript to your phone screen? Does the meaning change when the format changes? How do the hands of editors, publishers, printers alter a work? When we can search millions of books in an instant, how do we find nuance in the materiality of text? This course explores the definitions, purposes, and uses of scholarly editions of literary and historic texts in the digital age. Using material from Leyburn Library's Special Collections and Archives, we will work together to build our own digital edition. Along the way, students will learn foundational tech skills for digital publishing. 
+
+[course website](https://mackenziekbrooks.github.io/dci295D-f23-digitaleditions/)
+
 ## DH 102: Data in the Humanities
 This course introduces students to the creation and visualization of data in humanities research. The course is predicated on the fact that the digital turn of the last several decades has drastically changed the nature of knowledge production and distribution. The community and set of practices that is digital humanities (DH) encourages fluency in media beyond the printed word such as text mining, digital curation, data visualization, and spatial analysis. Readings and discussions of theory complement hands-on application of digital methods and computational thinking. While the objects of our study come primarily from the humanities, the methods of analysis are widely applicable to the social and natural sciences. Three unit-long collaborative projects explore the creation, structure, and visualization of humanities data. This course meets in two-hour blocks to accommodate a lab component. 
 
